@@ -1,0 +1,157 @@
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Oxanium', cursive;
+}
+
+h1 {
+  font-size: 4.173rem;
+  margin: 50px auto 0 auto;
+  line-height: 1;
+  font-family: 'Oxanium', cursive;
+  color: #213458;
+}
+
+h2 {
+  font-family: 'Jost', sans-seri;
+  font-size: 1.7rem;
+  font-weight: bolder;
+  color: #213458;
+}
+
+h3 {
+  font-family: 'Jost', sans-seri;
+  font-weight: bolder;
+}
+
+p {
+  font-family: 'Jost', sans-serif;
+  color:  #40514E;
+  line-height: 1.5;
+}
+
+hr {
+  border: dotted #ffcdab 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 80px auto;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e8fcf6;
+}
+
+.avater {
+  border-radius: 50%;
+  width: 13%;
+  height: auto;
+  padding: 40px;
+}
+
+.self-introduction {
+  margin: auto;
+  width: 66%;
+}
+
+.skill-image {
+  border-radius: 50%;
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.language-skill-image {
+  border-radius: 50%;
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.top-container {
+  background-color: #ffa45c;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  background-color: #fff4e3;
+  margin: 150px, 0;
+}
+
+.bottom-container {
+  background-color: #003459;
+  position: relative;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.contact-me {
+  padding-bottom: 50px;
+}
+
+.contact-mes {
+  width: 60%;
+  margin: 40px auto 60px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.footer-link {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.copy-right{
+ font-size: 0.75rem;
+}
+
+
+.btn {
+	background-color: #1F3C88;
+	border-radius: 8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#FFFFFF;
+	font-family:'Oxanium', cursive;
+  font-size: 20px;
+  font-weight: 200;
+  padding: 10px 20px 10px 20px;
+  text-decoration:none;
+}
+
+.btn:hover {
+  background: #1E62D0;
+  border: solid #5893D4 0px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.btn:active {
+	position:relative;
+	top:1px;
+}
